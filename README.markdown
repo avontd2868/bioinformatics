@@ -1,7 +1,7 @@
 # Bioinformatics : Assorted bioinformatics scripts implemented in python and matlab
 Written for a bioinformatics course
 
-- Twitter: [@NoahJ32](http://twitter.com/#!/NoahJ32)
+- Twitter: [@imnmj](http://twitter.com/#!/imnmj)
 
 ### Includes
 - Protein translation
